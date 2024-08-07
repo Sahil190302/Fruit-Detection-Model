@@ -1,0 +1,7 @@
+0 Apple
+1 Grapes
+2 Mango
+3 Orange
+4 PineApple
+5 Watermelon
+6 Banana
